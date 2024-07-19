@@ -9,8 +9,6 @@
 
 ### I made [shopify india/](https://shopify.in/) landing page design using Tailwind css only
 
->I Deployed my Project on Netlify and Vercel. so you can check it out 👇
-<br> [https://shopify-cl.netlify.app/](https://shopify-cl.netlify.app/) `recommended`
 
 ### 📌Resources and and its corresponding CDN links
 - Fonts
